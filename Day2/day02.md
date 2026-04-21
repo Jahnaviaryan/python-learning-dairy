@@ -37,3 +37,4 @@
 
 * Improve logic
 * Try small AI-related problem
+* learn other AI also
