@@ -25,7 +25,7 @@
 * Cleaned up conditions for grading
 * Made output more readable
 
-## ▶ Output
+##  Output
 
 * Program correctly prints:
 
